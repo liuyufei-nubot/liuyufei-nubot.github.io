@@ -20,8 +20,9 @@ redirect_from:
 Hi, I am a second-year master's student currently pursuing my degree at the National University of Defense Technology(NUDT), advised by  <a href="https://chen-xieyuanli.github.io" target="_blank">Associate Professor Xieyuanli Chen</a> and <a href="https://scholar.google.com/citations?user=cp-6u7wAAAAJ&hl=zh-CN" target="_blank">Professor Huimin Lu</a>. My research centers on 3D perception, 3D reconstruction, embodied intelligence and spatial understanding. Before that, I received my Bachelor’s degree in Automation Engineering at NUDT.
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 One Paper is accepted to RAL'2025
-
+- *2025.04*: &nbsp;🎉 One Paper is accepted to RAL'2025,  See you in Hangzhou, China!
+- *2024.09*: &nbsp;🌟 Commenced my Master's in Robotics—excited for further collaborations!
+- *2024.08*: &nbsp;🎉 One Paper is accepted to T-ITS'2024!
 
 # 📝 Publications 
 **\* denotes equal contribution.**
@@ -31,7 +32,7 @@ Hi, I am a second-year master's student currently pursuing my degree at the Nati
 
 [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation With 4D Radar](https://ieeexplore.ieee.org/document/10974572)
 
-**Yufei Liu**,Xieyuanli Chen,Neng Wang,Stepan Andreev,Alexander Dvorkovich,Rui Fan,Huimin Lu
+**Yufei Liu**, Xieyuanli Chen, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
 
 [**Project**](https://github.com/nubot-nudt/RadarSFEMOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 
@@ -44,7 +45,7 @@ Hi, I am a second-year master's student currently pursuing my degree at the Nati
 
 [Joint Scene Flow Estimation and Moving Object Segmentation on Rotational LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10623536)
 
-Xieyuanli,Chen, Jiafeng,Cui, **Yufei,Liu**, Xianjing,Zhang, Jiadai,Sun, Rui,Ai, Weihao,Gu, Jintao,Xu, Huimin,Lu
+Xieyuanli Chen, Jiafeng Cui, **Yufei Liu**, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
 
 [**Project**](https://github.com/nubot-nudt/SFEMOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 
@@ -57,7 +58,7 @@ Xieyuanli,Chen, Jiafeng,Cui, **Yufei,Liu**, Xianjing,Zhang, Jiadai,Sun, Rui,Ai, 
 
 [Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments](https://www.mdpi.com/2072-4292/15/18/4433)
 
-Yuhan,Xiao\*, **Yufei,Liu**\*, Kai,Luan, Yuwei,Cheng, Xieyuanli,Chen, Huimin,Lu
+Yuhan Xiao\*, **Yufei Liu**\*, Kai Luan, Yuwei Cheng, Xieyuanli Chen, Huimin Lu
 
 [**Project**](https://github.com/nubot-nudt/LRVFNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 
@@ -66,6 +67,7 @@ Yuhan,Xiao\*, **Yufei,Liu**\*, Kai,Luan, Yuwei,Cheng, Xieyuanli,Chen, Huimin,Lu
 
 
 # 🎖 Honors and Awards
+- *2024* University-level Excellent Undergraduate Thesis of National University of Defense Technology
 - *2024* Win the `2nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>RoboMaster2024 University Championship (National Competition)
 - *2024* Win the `1st Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>RoboMaster2024 University Championship (Regional Competition)
 - *2024* Win the `1nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>RoboMaster2024 University League (Regional Competition) 
