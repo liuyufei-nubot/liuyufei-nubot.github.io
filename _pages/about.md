@@ -17,30 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Hi, I am a second-year master's student currently pursuing my degree at the National University of Defense Technology(NUDT), advised by  <a href="https://chen-xieyuanli.github.io" target="_blank">Associate Professor Xieyuanli Chen</a> and <a href="https://scholar.google.com/citations?user=cp-6u7wAAAAJ&hl=zh-CN" target="_blank">Professor Huimin Lu</a>. My research centers on 3D perception, 3D reconstruction, embodied intelligence and spatial understanding. Before that, I received my Bachelor’s degree in Automation Engineering at NUDT.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 One Paper is accepted to RAL'2025
+
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+**\* denotes equal contribution.**
+<!-- paper 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL'25</div><img src='images/paper/liu2025ral.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation With 4D Radar](https://ieeexplore.ieee.org/document/10974572)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yufei Liu**,Xieyuanli Chen,Neng Wang,Stepan Andreev,Alexander Dvorkovich,Rui Fan,Huimin Lu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/nubot-nudt/RadarSFEMOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- paper 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS'24</div><img src='images/paper/chen2024tits.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Joint Scene Flow Estimation and Moving Object Segmentation on Rotational LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10623536)
+
+Xieyuanli,Chen, Jiafeng,Cui, **Yufei,Liu**, Xianjing,Zhang, Jiadai,Sun, Rui,Ai, Weihao,Gu, Jintao,Xu, Huimin,Lu
+
+[**Project**](https://github.com/nubot-nudt/SFEMOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
+<!-- paper 2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sens'23</div><img src='images/paper/xiao2023rs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments](https://www.mdpi.com/2072-4292/15/18/4433)
+
+Yuhan,Xiao\*, **Yufei,Liu**\*, Kai,Luan, Yuwei,Cheng, Xieyuanli,Chen, Huimin,Lu
+
+[**Project**](https://github.com/nubot-nudt/LRVFNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
