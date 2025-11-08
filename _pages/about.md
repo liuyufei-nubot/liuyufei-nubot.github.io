@@ -19,13 +19,19 @@ redirect_from:
 
 Hi, I am a second-year master's student currently pursuing my degree at the National University of Defense Technology(NUDT), advised by  <a href="https://chen-xieyuanli.github.io" target="_blank">Associate Professor Xieyuanli Chen</a> and <a href="https://scholar.google.com/citations?user=cp-6u7wAAAAJ&hl=zh-CN" target="_blank">Professor Huimin Lu</a>. My research centers on 3D perception, 3D reconstruction, embodied intelligence and spatial understanding. Before that, I received my Bachelor’s degree in Automation Engineering at NUDT.
 
+I have three years of experience participating in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>RoboMaster. It was a memorable journey that ignited my enduring passion for robotics.
+
+My current work involves:
+- Developing a VGGT-based dense **3D reconstruction** method for complex scenes.
+- Endowing Robots with Spatial Understanding Capabilities through **3D Foundation Models**.
+
+
 # 🔥 News
 - *2025.04*: &nbsp;🎉 One Paper is accepted to RAL'2025,  See you in Hangzhou, China!
 - *2024.09*: &nbsp;🌟 Commenced my Master's in Robotics—excited for further collaborations!
 - *2024.08*: &nbsp;🎉 One Paper is accepted to T-ITS'2024!
 
 # 📝 Publications 
-**\* denotes equal contribution.**
 <!-- paper 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL'25</div><img src='images/paper/liu2025ral.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
