@@ -66,16 +66,34 @@ Yuhan,Xiao\*, **Yufei,Liu**\*, Kai,Luan, Yuwei,Cheng, Xieyuanli,Chen, Huimin,Lu
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Win the `2nd Prize` in The 23nd National University Robot Competition RoboMaster2024 University Championship (National Competition)
+- *2024* Win the `1st Prize` in The 23nd National University Robot Competition RoboMaster2024 University Championship (Regional Competition)
+- *2024* Win the `1nd Prize` in The 23nd National University Robot Competition RoboMaster2024 University League (Regional Competition) 
+- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (National Competition)
+- *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (Regional Competition)
+- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League (Regional Competition) 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - today*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> pursuing  M.Eng. in Robotics at College of Intelligence Science and Technology, National University of Defense Technology.
+- *2020.09 - 2024.6*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> B.Eng. in Automation Engineering at College of Intelligence Science and Technology, National University of Defense Technology.
+ 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Looking for a **Embodied Intelligence** and **3D Vision** internship—hit me up!
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <span id="busuanzi_container_site_pv" style="display: inline;">
+    👀 Total Views: <span id="busuanzi_value_site_pv"></span>
+  </span>
+  &nbsp;&nbsp;
+  <span id="busuanzi_container_site_uv" style="display: inline;">
+    🧍 Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
