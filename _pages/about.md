@@ -66,12 +66,12 @@ Yuhan,Xiao\*, **Yufei,Liu**\*, Kai,Luan, Yuwei,Cheng, Xieyuanli,Chen, Huimin,Lu
 
 
 # 🎖 Honors and Awards
-- *2024* Win the `2nd Prize` in The 23nd National University Robot Competition RoboMaster2024 University Championship (National Competition)
-- *2024* Win the `1st Prize` in The 23nd National University Robot Competition RoboMaster2024 University Championship (Regional Competition)
-- *2024* Win the `1nd Prize` in The 23nd National University Robot Competition RoboMaster2024 University League (Regional Competition) 
-- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (National Competition)
-- *2023* Win the `1st Prize` in The 22nd National University Robot Competition RoboMaster2023 University Championship (Regional Competition)
-- *2023* Win the `2nd Prize` in The 22nd National University Robot Competition RoboMaster2023 University League (Regional Competition) 
+- *2024* Win the `2nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 23nd National University Robot Competition RoboMaster2024 University Championship (National Competition)
+- *2024* Win the `1st Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 23nd National University Robot Competition RoboMaster2024 University Championship (Regional Competition)
+- *2024* Win the `1nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 23nd National University Robot Competition RoboMaster2024 University League (Regional Competition) 
+- *2023* Win the `2nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 22nd National University Robot Competition RoboMaster2023 University Championship (National Competition)
+- *2023* Win the `1st Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 22nd National University Robot Competition RoboMaster2023 University Championship (Regional Competition)
+- *2023* Win the `2nd Prize` in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>The 22nd National University Robot Competition RoboMaster2023 University League (Regional Competition) 
 
 # 📖 Educations
 - *2024.09 - today*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> pursuing  M.Eng. in Robotics at College of Intelligence Science and Technology, National University of Defense Technology.
