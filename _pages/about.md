@@ -22,11 +22,12 @@ Hi, I am a second-year master's student currently pursuing my degree at the Nati
 I have three years of experience participating in <a href="https://www.robomaster.com/zh-CN"><img class="svg" src="images/robomaster.png" width="20pt"></a>RoboMaster. It was a memorable journey that ignited my enduring passion for robotics.
 
 My current work involves:
-- Developing a VGGT-based dense **3D reconstruction** method for complex scenes.
+- Developing a Robust **Perceptive Humanoid Locomotion** method for complex terrains.
 - Endowing Robots with Spatial Understanding Capabilities through **3D Foundation Models**.
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 [HumanoidDreamWaq](https://github.com/liuyufei-nubot/HumanoidDreamWaq.git) has been open-sourced, welcome researchers and developers to utilize it!!
 - *2025.04*: &nbsp;🎉 One Paper is accepted to RAL'2025,  See you in Hangzhou, China!
 - *2024.09*: &nbsp;🌟 Commenced my Master's in Robotics—excited for further collaborations!
 - *2024.08*: &nbsp;🎉 One Paper is accepted to T-ITS'2024!
