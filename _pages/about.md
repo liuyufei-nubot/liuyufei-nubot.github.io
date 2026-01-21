@@ -27,6 +27,7 @@ My current work involves:
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 [G1DWAQ_Lab](https://github.com/liuyufei-nubot/G1DWAQ_Lab.git) has been fully open-sourced across the entire workflow. Welcome to use it!
 - *2025.12*: &nbsp;🎉 [HumanoidDreamWaq](https://github.com/liuyufei-nubot/HumanoidDreamWaq.git) has been open-sourced, welcome researchers and developers to utilize it!!
 - *2025.04*: &nbsp;🎉 One Paper is accepted to RAL'2025,  See you in Hangzhou, China!
 - *2024.09*: &nbsp;🌟 Commenced my Master's in Robotics—excited for further collaborations!
