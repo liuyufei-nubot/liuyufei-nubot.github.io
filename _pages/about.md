@@ -27,6 +27,7 @@ My current work involves:
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Our new paper [GeoLoco](https://arxiv.org/abs/2603.07624) is now available on arXiv. Check out the [Project Page](https://geoloco-rgb.github.io/)!
 - *2025.12*: &nbsp;🎉 [G1DWAQ_Lab](https://github.com/liuyufei-nubot/G1DWAQ_Lab.git) has been fully open-sourced across the entire workflow. Welcome to use it!
 - *2025.12*: &nbsp;🎉 [HumanoidDreamWaq](https://github.com/liuyufei-nubot/HumanoidDreamWaq.git) has been open-sourced, welcome researchers and developers to utilize it!!
 - *2025.04*: &nbsp;🎉 One Paper is accepted to RAL'2025,  See you in Hangzhou, China!
@@ -34,6 +35,19 @@ My current work involves:
 - *2024.08*: &nbsp;🎉 One Paper is accepted to T-ITS'2024!
 
 # 📝 Publications 
+<!-- paper 2026 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'26</div><img src='images/paper/overview4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
+
+**Yufei Liu**, Xieyuanli Chen, Hainan Pan, Chenghao Shi, Yanjie Chen, Kaihong Huang, Zhiwen Zeng, Huimin Lu
+
+[**Project**](https://geoloco-rgb.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
 <!-- paper 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL'25</div><img src='images/paper/liu2025ral.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
