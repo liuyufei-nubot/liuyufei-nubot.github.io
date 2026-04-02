@@ -27,6 +27,7 @@ My current work involves:
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 [GeoLoco](https://github.com/liuyufei-nubot/GeoLoco) has been fully open-sourced. Welcome to use it!
 - *2026.03*: &nbsp;🎉 Our new paper [GeoLoco](https://arxiv.org/abs/2603.07624) is now available on arXiv. Check out the [Project Page](https://geoloco-rgb.github.io/)!
 - *2025.12*: &nbsp;🎉 [G1DWAQ_Lab](https://github.com/liuyufei-nubot/G1DWAQ_Lab.git) has been fully open-sourced across the entire workflow. Welcome to use it!
 - *2025.12*: &nbsp;🎉 [HumanoidDreamWaq](https://github.com/liuyufei-nubot/HumanoidDreamWaq.git) has been open-sourced, welcome researchers and developers to utilize it!!
